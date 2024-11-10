@@ -1,0 +1,14 @@
+# deps
+node_modules/
+dev.db
+dist
+.vscode/*
+
+
+#env
+*.env
+
+#logs
+logs/
+*.log
+.vercel
